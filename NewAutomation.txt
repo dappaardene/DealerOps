@@ -1,1 +1,7 @@
 We are now moving to automation
+I am planning on implementing Azure Devops
+How often should we be pushing codes to Github?
+As often as possbile
+What new features have you developed
+I have 2 new features
+What are the new fetaures
